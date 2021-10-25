@@ -28,6 +28,7 @@ SECRET_KEY = 'django-insecure-@xe)2n77m*&l!08-4aeheyzi5v!ap1pygq5y!fo(s)06ro&l#6
 DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'blognewschill.herokuapp.com']
+DEBUG_COLLECTSTATIC=1
 
 
 # Application definition
